@@ -1,4 +1,4 @@
-#include "facto.h"
+#include "factor.h"
 
 /**
  * main - main function
@@ -6,7 +6,6 @@
  *
  * Return: void
  */
-
 int main(int argc, char *argv[])
 {
 	FILE *fptr;
